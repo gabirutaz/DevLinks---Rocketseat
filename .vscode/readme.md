@@ -37,7 +37,7 @@ estruturado para utilizar dois temas diferentes claro e escuro de acorodo com o 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/EuJjlHDFsMf4BqHAoTbv8B/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=1437-191&node-type=frame&m=dev>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/EuJjlHDFsMf4BqHAoTbv8B/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=1437-191&node-type=frame&m=dev>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.w
 
 ## :memo: Licença
 

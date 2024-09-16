@@ -34,5 +34,6 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "liveServer.settings.port": 5501
+  "liveServer.settings.port": 5501,
+  "git.ignoreLimitWarning": true
 }
